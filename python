@@ -1,0 +1,25 @@
+print("enter the num")
+a=int(input())
+while(True):
+    print("enter 2nd num")
+    b=int(input())
+    print("1.Addition")
+    print("2.Subtraction")
+    print("3.Multiplication")
+    print("4.Division")
+    o=input()
+    if(o=="1"):
+        c=a+b
+        print(c)
+    elif(o=="2"):
+        c=a-b
+        print(c)
+    elif(o=="3"):
+        c=a*b
+        print(c)
+    elif(o=="4"):
+        c=a/b
+        print(c)
+    else:
+        break
+    a=c            
