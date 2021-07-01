@@ -75,31 +75,3 @@
   .card:hover .back {
     transform: rotateY(0deg);
   }
-
-  /* .card1 .back {
-    background: #34e7e4;
-  }
-  
-  .card2 .back,
-  .card7 .back {
-    background: #e67e22;
-  }
-  
-  .card3 .back,
-  .card9 .back {
-    background: #1abc9c;
-  }
-  
-  .card4 .back,
-  .card8 .back {
-    background: #3498db;
-  }
-  
-  .card5 .back,
-  .card10 .back {
-    background: #e74c3c;
-  }
-  
-  .card6 .back {
-    background: #9b59b6;
-  } */
